@@ -1,0 +1,5 @@
+Create a table using CREATE
+Insert data into the table using INSERT
+
+Delete all data using DELETE
+Delete the table using DROP
