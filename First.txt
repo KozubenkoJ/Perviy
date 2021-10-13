@@ -1,5 +1,5 @@
 Create a table using CREATE
 Insert data into the table using INSERT
-
+LA-LA-LA
 Delete all data using DELETE
 Delete the table using DROP
